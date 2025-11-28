@@ -3,6 +3,7 @@
 ## **Contract Address**
 **0xfD4B754db6e3416555E70Ad10203A17e8a7C9EE3**  
 Explorer: https://coston2-explorer.flare.network/address/0xfD4B754db6e3416555E70Ad10203A17e8a7C9EE3
+<img width="2" height="1" alt="image" src="https://github.com/user-attachments/assets/3619980a-d041-4b36-93d1-b41d560113e7" />
 
 ---
 
